@@ -1,0 +1,32 @@
+{
+  "name": "express-domains-issue",
+  "version": "0.0.0",
+  "description": "",
+  "main": "express-domains-issue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rook2pawn/express-domains-issue.git"
+  },
+  "keywords": [
+    "express",
+    "domains",
+    "error",
+    "handling",
+    "exception"
+  ],
+  "author": "David Wee <rook2pawn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rook2pawn/express-domains-issue/issues"
+  },
+  "homepage": "https://github.com/rook2pawn/express-domains-issue",
+  "dependencies": {
+    "express": "^3.5.1",
+    "request": "^2.34.0",
+    "response": "^0.13.0",
+    "queuelib": "^0.3.3"
+  }
+}
